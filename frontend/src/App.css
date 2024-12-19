@@ -1,0 +1,24 @@
+html,
+body {
+    height: 100vh;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+
+.button {
+    height: 50px;
+}
+
+.chat-input {
+    height: 50px;
+}
+
+.chat-history {
+    height: 400px;
+}
